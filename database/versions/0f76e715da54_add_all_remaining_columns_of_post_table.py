@@ -5,7 +5,7 @@ Revises: ca5179f7fcd2
 Create Date: 2023-09-14 14:01:42.713793
 
 """
-from tkinter.tix import Tree
+
 from typing import Sequence, Union
 
 from alembic import op
